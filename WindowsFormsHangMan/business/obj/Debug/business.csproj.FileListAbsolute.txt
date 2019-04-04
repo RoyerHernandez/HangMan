@@ -1,0 +1,9 @@
+C:\Users\royer.hernandez\Documents\Visual Studio 2017\Projects\WindowsFormsHangMan\business\bin\Debug\business.exe.config
+C:\Users\royer.hernandez\Documents\Visual Studio 2017\Projects\WindowsFormsHangMan\business\bin\Debug\business.exe
+C:\Users\royer.hernandez\Documents\Visual Studio 2017\Projects\WindowsFormsHangMan\business\bin\Debug\business.pdb
+C:\Users\royer.hernandez\Documents\Visual Studio 2017\Projects\WindowsFormsHangMan\business\obj\Debug\business.csprojAssemblyReference.cache
+C:\Users\royer.hernandez\Documents\Visual Studio 2017\Projects\WindowsFormsHangMan\business\obj\Debug\business.Properties.Resources.resources
+C:\Users\royer.hernandez\Documents\Visual Studio 2017\Projects\WindowsFormsHangMan\business\obj\Debug\business.csproj.GenerateResource.cache
+C:\Users\royer.hernandez\Documents\Visual Studio 2017\Projects\WindowsFormsHangMan\business\obj\Debug\business.csproj.CoreCompileInputs.cache
+C:\Users\royer.hernandez\Documents\Visual Studio 2017\Projects\WindowsFormsHangMan\business\obj\Debug\business.exe
+C:\Users\royer.hernandez\Documents\Visual Studio 2017\Projects\WindowsFormsHangMan\business\obj\Debug\business.pdb

@@ -1,0 +1,14 @@
+C:\Users\royer.hernandez\Documents\Visual Studio 2017\Projects\WindowsFormsHangMan\WindowsFormsHangMan\bin\Debug\WindowsFormsHangMan.exe.config
+C:\Users\royer.hernandez\Documents\Visual Studio 2017\Projects\WindowsFormsHangMan\WindowsFormsHangMan\bin\Debug\WindowsFormsHangMan.exe
+C:\Users\royer.hernandez\Documents\Visual Studio 2017\Projects\WindowsFormsHangMan\WindowsFormsHangMan\bin\Debug\WindowsFormsHangMan.pdb
+C:\Users\royer.hernandez\Documents\Visual Studio 2017\Projects\WindowsFormsHangMan\WindowsFormsHangMan\bin\Debug\business.exe
+C:\Users\royer.hernandez\Documents\Visual Studio 2017\Projects\WindowsFormsHangMan\WindowsFormsHangMan\bin\Debug\business.pdb
+C:\Users\royer.hernandez\Documents\Visual Studio 2017\Projects\WindowsFormsHangMan\WindowsFormsHangMan\bin\Debug\business.exe.config
+C:\Users\royer.hernandez\Documents\Visual Studio 2017\Projects\WindowsFormsHangMan\WindowsFormsHangMan\obj\Debug\WindowsFormsHangMan.csprojAssemblyReference.cache
+C:\Users\royer.hernandez\Documents\Visual Studio 2017\Projects\WindowsFormsHangMan\WindowsFormsHangMan\obj\Debug\WindowsFormsHangMan.Form1.resources
+C:\Users\royer.hernandez\Documents\Visual Studio 2017\Projects\WindowsFormsHangMan\WindowsFormsHangMan\obj\Debug\WindowsFormsHangMan.Properties.Resources.resources
+C:\Users\royer.hernandez\Documents\Visual Studio 2017\Projects\WindowsFormsHangMan\WindowsFormsHangMan\obj\Debug\WindowsFormsHangMan.csproj.GenerateResource.cache
+C:\Users\royer.hernandez\Documents\Visual Studio 2017\Projects\WindowsFormsHangMan\WindowsFormsHangMan\obj\Debug\WindowsFormsHangMan.csproj.CoreCompileInputs.cache
+C:\Users\royer.hernandez\Documents\Visual Studio 2017\Projects\WindowsFormsHangMan\WindowsFormsHangMan\obj\Debug\WindowsFormsHangMan.csproj.CopyComplete
+C:\Users\royer.hernandez\Documents\Visual Studio 2017\Projects\WindowsFormsHangMan\WindowsFormsHangMan\obj\Debug\WindowsFormsHangMan.exe
+C:\Users\royer.hernandez\Documents\Visual Studio 2017\Projects\WindowsFormsHangMan\WindowsFormsHangMan\obj\Debug\WindowsFormsHangMan.pdb
